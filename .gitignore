@@ -6,4 +6,5 @@ __pycache__/
 venv/
 
 practica.ipynb
-.ipynb_checkpoints/practica-checkpoint.ipynb
+
+.ipynb_checkpoints/
