@@ -3,7 +3,7 @@ Práctica de Aplicaciones Avanzadas de la IA
 
 ---
 
-*Ejecución en Cachy OS*
+## Ejecución en Cachy OS
 1. python3.12 -m venv river-env (crear el entorno virtual, he usado python 12 porque sino daba error el pandas)
 2. source river-env/bin/activate.fish (el .fish es porque uso fish, pero si usáis bash lo quitáis y ya)
 3. pip install --upgrade pip 
@@ -12,6 +12,6 @@ Práctica de Aplicaciones Avanzadas de la IA
 
 ---
 
-*Uso de LFS (Large File System)*
+## Uso de LFS (Large File System)
 1. git lfs install
 2. git lfs pull (descarga del fichero)
