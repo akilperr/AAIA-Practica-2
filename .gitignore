@@ -1,3 +1,9 @@
 river-env/
+__pycache__/
+*.pyc
+
 .venv/
 venv/
+
+practica.ipynb
+.ipynb_checkpoints/practica-checkpoint.ipynb

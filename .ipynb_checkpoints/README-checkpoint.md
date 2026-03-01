@@ -7,4 +7,4 @@ Ejecución en Cachy OS
     - source river-env/bin/activate.fish (el .fish es porque uso fish, pero si usáis bash lo quitáis y ya)
     - pip install --upgrade pip 
     - pip install -r requirements.txt (para que todos tengamos el mismo entorno)
-    - jupyter lab 
+    - python -m ipykernel install --user --name=river-env --display-name "Python (river-env)"
